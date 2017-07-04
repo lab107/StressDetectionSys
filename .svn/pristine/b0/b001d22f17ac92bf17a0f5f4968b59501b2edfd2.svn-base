@@ -1,0 +1,277 @@
+[
+    {
+        "outputFile": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 44,
+                        "endOffset": 476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 45,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 46,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 50,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endColumn": 46,
+                    "endOffset": 286
+                },
+                "from": {
+                    "file": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endColumn": 46,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 291,
+                    "endColumn": 43,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 43,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 46,
+                    "endOffset": 377
+                },
+                "from": {
+                    "file": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 344,
+                        "endColumn": 46,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 382,
+                    "endColumn": 42,
+                    "endOffset": 420
+                },
+                "from": {
+                    "file": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 42,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 425,
+                    "endColumn": 45,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 45,
+                        "endOffset": 245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endColumn": 57,
+                    "endOffset": 524
+                },
+                "from": {
+                    "file": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 529,
+                    "endColumn": 55,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endColumn": 50,
+                    "endOffset": 631
+                },
+                "from": {
+                    "file": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 635,
+                        "endColumn": 50,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 636,
+                    "endColumn": 51,
+                    "endOffset": 683
+                },
+                "from": {
+                    "file": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 51,
+                        "endOffset": 734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 688,
+                    "endColumn": 46,
+                    "endOffset": 730
+                },
+                "from": {
+                    "file": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 735,
+                    "endColumn": 55,
+                    "endOffset": 786
+                },
+                "from": {
+                    "file": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 791,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1287
+                },
+                "from": {
+                    "file": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1292,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1386
+                },
+                "from": {
+                    "file": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

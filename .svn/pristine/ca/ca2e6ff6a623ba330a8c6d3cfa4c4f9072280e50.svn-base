@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_text">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="gray_divider">#D6D6D6</color>
+    <color name="gray_text">#999999</color>
+    <color name="green_text">#ff96cf99</color>
+    <color name="red_text">#e85449</color>
+    <color name="window_bg">#ffeef1f3</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <drawable name="clr_normal">#eae9e9</drawable>
+    <drawable name="clr_pressed">#dcbebe</drawable>
+    <string name="app_name">磁记忆应力监测系统</string>
+    <string name="title_activity_main">磁记忆应力监测</string>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item><!--边框-->
+        <item name="android:windowIsFloating">true</item><!--是否浮现在activity之上-->
+        <item name="android:windowIsTranslucent">true</item><!--半透明-->
+        <item name="android:windowNoTitle">true</item><!--无标题-->
+        <item name="android:windowBackground">@color/window_bg</item>背景透明
+        <item name="android:backgroundDimEnabled">false</item><!--模糊-->
+    </style>
+    <style name="spinnerstyle">
+        <item name="android:textColor">#000000</item>
+    </style>
+</resources>

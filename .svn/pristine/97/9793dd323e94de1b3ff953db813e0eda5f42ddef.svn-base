@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#eae9e9">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:background="@drawable/top_background"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:clipToPadding="false">
+
+        <ImageView
+            android:id="@+id/return_key"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:paddingBottom="18dp"
+            android:paddingLeft="20dp"
+            android:src="@drawable/returnkey_white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="地磁场校准"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="15dp"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        >
+
+        <!--文本标签-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="42px"
+                android:textSize="18sp"
+                android:lineSpacingMultiplier="1.2"
+                android:text="先选择预校准的通道 ，然后将它们悬空放置 ，要求探头平行于地表面 ，放置空间无磁场。点击“开始” 按钮 ，缓慢转动探头360度以上 ，点击“完成” 按钮 ，等待片刻 ，校准完成。"
+                android:textColor="@color/black_text"
+                />
+        </LinearLayout>
+
+        <!--空白-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp">
+        </LinearLayout>
+
+        <!--校准通道-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="fill_horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="校 准 通 道 : "
+                android:textSize="18sp"
+                android:textColor="@color/black_text"
+                />
+            <TextView
+                android:id="@+id/selectChaneel"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.9"
+                android:gravity="center_vertical"
+                android:background="@drawable/pane"
+                android:textColor="#3f3b3e"
+                android:textAlignment="center"
+                android:textSize="18sp" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3"
+                android:background="#c7c7c7"
+                android:gravity="center">
+
+                <ImageView
+                    android:id="@+id/img_select"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/strigon1" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!--图表-->
+    <LinearLayout
+        android:id="@+id/chart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        android:layout_weight="1"
+        android:layout_marginBottom="40dp"
+        android:layout_marginRight="0dp"
+        >
+    </LinearLayout>
+
+    <!--分割线-->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.8dp"
+        android:background="#898888" />
+
+    <!--按钮布局-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#dcdcdc"
+        >
+        <!--开始按钮-->
+        <ImageButton
+            android:id="@+id/btnStart"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#dcdcdc"
+            android:src="@drawable/btn_begin"/>
+        <!-- 完成按钮-->
+        <ImageButton
+            android:id="@+id/btnFinish"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#dcdcdc"
+            android:src="@drawable/btn_finish"/>
+        <!-- 退出按钮-->
+        <ImageButton
+            android:id="@+id/btnQuit"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#dcdcdc"
+            android:src="@drawable/btn_quit"/>
+    </LinearLayout>
+
+</LinearLayout>

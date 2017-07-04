@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#eae9e9">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:background="@drawable/top_background"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:clipToPadding="false">
+
+        <ImageView
+            android:id="@+id/return_key"
+            android:padding="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentBottom="true"
+            android:src="@drawable/returnkey_white"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="标准磁场校准"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="15dp"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/linearlayout1"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:visibility="visible"
+        android:focusableInTouchMode="true"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="42px"
+                android:textSize="18sp"
+                android:lineSpacingMultiplier="1.2"
+                android:text="请将待校准通道放置在标准磁场中的标准控件1上，然后点击“下一步”。"
+                android:textColor="@color/black_text"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="97px">
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="请选择通道 : "
+                android:textSize="18sp"
+                android:textColor="@color/black_text"
+                />
+            <TextView
+                android:id="@+id/selectChaneel"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.9"
+                android:gravity="center_vertical"
+                android:background="@drawable/pane"
+                android:textColor="#3f3b3e"
+                android:textAlignment="center"
+                android:textSize="18sp" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3"
+                android:background="#c7c7c7"
+                android:gravity="center">
+
+                <ImageView
+                    android:id="@+id/img_select"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/strigon1" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="54px"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minLines="2"
+                android:text="标准控件 1 \n磁 场 强 度  : "
+                android:textColor="@color/black_text"
+                android:textSize="18sp"
+                />
+            <EditText
+                android:id="@+id/standardValue1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/frame"
+                android:textAlignment="center"
+                android:gravity="center_vertical"
+                android:inputType="numberDecimal"
+                android:textSize="18sp"
+                android:textColor="@color/black_text"
+                android:hint="          输入非负数"
+                android:textColorHint="@color/black_text"
+                />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearlayout2"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:visibility="gone">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="42px"
+                android:textSize="18sp"
+                android:lineSpacingMultiplier="1.2"
+                android:text="请将待校准通道放置在标准磁场中的标准控件2上，然后点击“下一步”。"
+                android:textColor="@color/black_text"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="97px"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minLines="2"
+                android:text="标准控件 2 \n磁 场 强 度  : "
+                android:textColor="@color/black_text"
+                android:textSize="18sp"
+                />
+            <EditText
+                android:id="@+id/standardValue2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/frame"
+                android:textAlignment="center"
+                android:inputType="numberDecimal"
+                android:textSize="18sp"
+                android:textColor="@color/black_text"
+                android:hint="          输入非负数"
+                android:textColorHint="@color/black_text"
+
+                />
+
+    </LinearLayout>
+
+
+
+
+
+    </LinearLayout>
+
+    <!--分割线-->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.8dp"
+        android:background="#898888" />
+
+    <!--按钮布局-->
+    <LinearLayout
+        android:id="@+id/linearlayout4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#dcdcdc"
+        android:visibility="gone"
+        >
+        <!--上一步按钮-->
+        <ImageButton
+            android:id="@+id/btnLast"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#dcdcdc"
+            android:src="@drawable/btn_last"/>
+        <!--完成按钮-->
+        <ImageButton
+            android:id="@+id/btnFinish"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#dcdcdc"
+            android:src="@drawable/btn_finish"/>
+        <!-- 停止按钮-->
+        <ImageButton
+            android:id="@+id/btnQuit_1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#dcdcdc"
+            android:src="@drawable/btn_quit"/>
+    </LinearLayout>
+
+    <!--按钮布局-->
+    <LinearLayout
+        android:id="@+id/linearlayout3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#dcdcdc"
+        android:visibility="visible"
+        >
+        <!--下一步按钮-->
+        <ImageButton
+            android:id="@+id/btnNext"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#dcdcdc"
+            android:src="@drawable/btn_next"/>
+        <!-- 停止按钮-->
+        <ImageButton
+            android:id="@+id/btnQuit"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#dcdcdc"
+            android:src="@drawable/btn_quit"/>
+    </LinearLayout>
+
+</LinearLayout>

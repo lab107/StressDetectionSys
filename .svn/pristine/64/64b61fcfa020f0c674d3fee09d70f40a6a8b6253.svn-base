@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_history_selected.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\btn_history_selected.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\triangle.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\triangle.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu_back.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\menu_back.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\start_normal.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\start_normal.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\date_frame.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\date_frame.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_background.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\top_background.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\day.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\day.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_line.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\btn_line.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\stop_select.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\stop_select.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pointer.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\pointer.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_magnetic_measurement_sellected.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\btn_magnetic_measurement_sellected.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_history_data_normal.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\tab_history_data_normal.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\year.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\year.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clean_selected.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\clean_selected.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\baude_rate.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\baude_rate.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sample_time.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\sample_time.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\stop_normal.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\stop_normal.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_history_normal.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\btn_history_normal.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_data_measure_pressed.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\tab_data_measure_pressed.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\stop_bit.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\stop_bit.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_suspend_selected.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\btn_suspend_selected.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_data_measure_normal.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\tab_data_measure_normal.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_suspend_normal.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\btn_suspend_normal.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\month.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\month.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\start_selected.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\start_selected.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clean_normal.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\clean_normal.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\circle.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\circle.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\pointer_plate.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\pointer_plate.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\menu_icon.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\menu_icon.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_magnetic_measurement_normal.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\btn_magnetic_measurement_normal.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_history_data_pressed.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\tab_history_data_pressed.png"
+    },
+    {
+        "merged": "E:\\ASworkspace\\StressDetectionSys\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\navigation.png",
+        "source": "E:\\ASworkspace\\StressDetectionSys\\app\\src\\main\\res\\drawable-xhdpi\\navigation.png"
+    }
+]
